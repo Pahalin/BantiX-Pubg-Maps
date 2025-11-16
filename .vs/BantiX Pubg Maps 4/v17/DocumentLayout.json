@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\\u0423\u0447\u0435\u0431\u0430\\c#\\BXPM\\BantiX Pubg Maps 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9125D5-0E89-4A5B-8DA5-12D03260D018}|BantiX Pubg Maps 4\\BantiX Pubg Maps 4.csproj|a:\\\u0443\u0447\u0435\u0431\u0430\\c#\\bxpm\\bantix pubg maps 4\\bantix pubg maps 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9125D5-0E89-4A5B-8DA5-12D03260D018}|BantiX Pubg Maps 4\\BantiX Pubg Maps 4.csproj|solutionrelative:bantix pubg maps 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9125D5-0E89-4A5B-8DA5-12D03260D018}|BantiX Pubg Maps 4\\BantiX Pubg Maps 4.csproj|a:\\\u0443\u0447\u0435\u0431\u0430\\c#\\bxpm\\bantix pubg maps 4\\bantix pubg maps 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9125D5-0E89-4A5B-8DA5-12D03260D018}|BantiX Pubg Maps 4\\BantiX Pubg Maps 4.csproj|solutionrelative:bantix pubg maps 4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "A:\\\u0423\u0447\u0435\u0431\u0430\\c#\\BXPM\\BantiX Pubg Maps 4\\BantiX Pubg Maps 4\\Form1.cs",
+              "RelativeDocumentMoniker": "BantiX Pubg Maps 4\\Form1.cs",
+              "ToolTip": "A:\\\u0423\u0447\u0435\u0431\u0430\\c#\\BXPM\\BantiX Pubg Maps 4\\BantiX Pubg Maps 4\\Form1.cs",
+              "RelativeToolTip": "BantiX Pubg Maps 4\\Form1.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAALUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:43:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "A:\\\u0423\u0447\u0435\u0431\u0430\\c#\\BXPM\\BantiX Pubg Maps 4\\BantiX Pubg Maps 4\\Form1.cs",
+              "RelativeDocumentMoniker": "BantiX Pubg Maps 4\\Form1.cs",
+              "ToolTip": "A:\\\u0423\u0447\u0435\u0431\u0430\\c#\\BXPM\\BantiX Pubg Maps 4\\BantiX Pubg Maps 4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "BantiX Pubg Maps 4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:37:19.528Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

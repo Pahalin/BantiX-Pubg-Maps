@@ -1,0 +1,16 @@
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BX_PUBG_MAP.Form1.resources
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.csproj.GenerateResource.cache
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.GeneratedMSBuildEditorConfig.editorconfig
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.AssemblyInfoInputs.cache
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.AssemblyInfo.cs
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.csproj.CoreCompileInputs.cache
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\bin\Release\net8.0-windows\BantiX Pubg Maps 4.exe
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\bin\Release\net8.0-windows\BantiX Pubg Maps 4.deps.json
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\bin\Release\net8.0-windows\BantiX Pubg Maps 4.runtimeconfig.json
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\bin\Release\net8.0-windows\BantiX Pubg Maps 4.dll
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\bin\Release\net8.0-windows\BantiX Pubg Maps 4.pdb
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.dll
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\refint\BantiX Pubg Maps 4.dll
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.pdb
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\BantiX Pubg Maps 4.genruntimeconfig.cache
+A:\Учеба\c#\BXPM\BantiX Pubg Maps 4\BantiX Pubg Maps 4\obj\Release\net8.0-windows\ref\BantiX Pubg Maps 4.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BantiX Pubg Maps 4/1.0.0": {
+        "runtime": {
+          "BantiX Pubg Maps 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BantiX Pubg Maps 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
